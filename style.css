@@ -1,0 +1,92 @@
+  h2 {
+    color: Red;
+  }
+
+  a {
+    color: blue;
+    font-size: 24px;
+    ;
+  }
+
+  table {
+    color: rgb(190, 15, 234);
+  }
+
+  body {
+    background-color: rgb(189, 212, 236);
+  }
+
+  a:hover {
+    background: gold;
+  }
+
+  .wow {
+    background: gold;
+  }
+
+  * {
+    font-family: 'Gill Sans',
+      'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  * {
+
+    text-align: center;
+
+  }
+
+  * {
+    margin: 5;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  nav {
+    background-color: rgb(34, 214, 154);
+    display: flex;
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    padding: 2px;
+    align-items: center;
+    justify-content: left;
+
+  }
+  nav ul li{
+    display: inline-block;
+    list-style-type: style none;
+    margin:20px 20px;
+  }
+  nav ul li{
+    text-decoration: solid;
+    color: blue;
+    font-weight: bolder;
+    text-transform:capitalize;
+
+  }
+  nav ul li a:{
+    text-decoration: solid;
+    color: blue;
+    font-weight: bolder;
+    text-transform:capitalize;
+
+  }
+
+  .ce{
+      margin-left:auto;
+      margin-right: auto;
+
+  }
+  .lightblue{
+    background-color: rgb(34, 214, 154);
+    display: flex;
+    width: 100%;
+    height: px;
+    margin: auto;
+    padding: 2px;
+    align-items: center;
+    justify-content: left;
+  }
+  .ce{text-align: center;
+
+  }
